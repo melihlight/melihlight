@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @melihlight
+- 👀 I’m interested in PC
+- 🌱 I’m currently learning C++ and C#
+- 📫 How to reach me melihlight@protonmail.com
